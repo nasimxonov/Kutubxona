@@ -1,0 +1,48 @@
+[
+    {
+        "fullname": "said said said o'g'li",
+        "email": "saidnur@gmail.com",
+        "username": "a",
+        "password": "a",
+        "rented_books": [
+            {
+                "nom": "Najot ta'lim python darslik",
+                "muallif": {
+                    "ism": "Saidnurmuhammadullloxon",
+                    "familiya": "Nasimxonov"
+                },
+                "janr": "O'quv qo'llanma",
+                "narx": 50000,
+                "sahifalar": 80
+            },
+            {
+                "nom": "Dasturlash Asoslari",
+                "muallif": {
+                    "ism": "Yoshihiro",
+                    "familiya": "Mori"
+                },
+                "janr": "O'quv qo'llanma",
+                "narx": 50000,
+                "sahifalar": 80
+            }
+        ]
+    },
+    {
+        "fullname": "asda pokpok sds o'g'li",
+        "email": "asdasda@gmail.com",
+        "username": "admin",
+        "password": "aaaa1111",
+        "rented_books": [
+            {
+                "nom": "Najot ta'lim python darslik",
+                "muallif": {
+                    "ism": "Abdurazzoq",
+                    "familiya": "Abdusalomov"
+                },
+                "janr": "O'quv qo'llanma",
+                "narx": 50000,
+                "sahifalar": 80
+            }
+        ]
+    }
+]

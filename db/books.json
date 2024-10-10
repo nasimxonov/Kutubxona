@@ -1,0 +1,362 @@
+[
+    {
+        "nom": "Najot ta'lim python darslik",
+        "muallif": {
+            "ism": "Saidnurmuhammadulloxon",
+            "familiya": "Nasimxonov"
+        },
+        "janr": "O'quv qo'llanma",
+        "narx": 50000,
+        "sahifalar": 80
+    },
+    {
+        "nom": "etst",
+        "muallif": {
+            "ism": "asd",
+            "familiya": "ffff"
+        },
+        "janr": "O'quv qo'llanma",
+        "narx": 50000,
+        "sahifalar": 80
+    },
+    {
+        "nom": "Inson va Dunyo",
+        "muallif": {
+            "ism": "Abdulla",
+            "familiya": "Qodiriy"
+        },
+        "janr": "Roman",
+        "narx": 65000,
+        "sahifalar": 240
+    },
+    {
+        "nom": "O'tgan Kunlar",
+        "muallif": {
+            "ism": "Abdulla",
+            "familiya": "Qodiriy"
+        },
+        "janr": "Roman",
+        "narx": 70000,
+        "sahifalar": 320
+    },
+    {
+        "nom": "Ikki Eshik Orasida",
+        "muallif": {
+            "ism": "Sharof",
+            "familiya": "Rashidov"
+        },
+        "janr": "Roman",
+        "narx": 85000,
+        "sahifalar": 400
+    },
+    {
+        "nom": "Shum Bola",
+        "muallif": {
+            "ism": "G'ofur",
+            "familiya": "G'ulom"
+        },
+        "janr": "Povest",
+        "narx": 30000,
+        "sahifalar": 100
+    },
+    {
+        "nom": "Alisher Navoiy",
+        "muallif": {
+            "ism": "Oybek",
+            "familiya": ""
+        },
+        "janr": "Biografiya",
+        "narx": 60000,
+        "sahifalar": 270
+    },
+    {
+        "nom": "Qorqma!",
+        "muallif": {
+            "ism": "Robert",
+            "familiya": "Kiyosaki"
+        },
+        "janr": "Biznes",
+        "narx": 95000,
+        "sahifalar": 320
+    },
+    {
+        "nom": "Moliyaviy Ozodlik",
+        "muallif": {
+            "ism": "Deyv",
+            "familiya": "Ramsey"
+        },
+        "janr": "Biznes",
+        "narx": 120000,
+        "sahifalar": 350
+    },
+    {
+        "nom": "Odamlar Qanday O'ylaydi",
+        "muallif": {
+            "ism": "Richard",
+            "familiya": "Taler"
+        },
+        "janr": "Psixologiya",
+        "narx": 90000,
+        "sahifalar": 250
+    },
+    {
+        "nom": "Psixologik Tushunchalar",
+        "muallif": {
+            "ism": "Daniel",
+            "familiya": "Kahneman"
+        },
+        "janr": "Psixologiya",
+        "narx": 100000,
+        "sahifalar": 380
+    },
+    {
+        "nom": "O'smir Yoshdagi Bolalar",
+        "muallif": {
+            "ism": "Jon",
+            "familiya": "Grisham"
+        },
+        "janr": "Drama",
+        "narx": 75000,
+        "sahifalar": 200
+    },
+    {
+        "nom": "Vaqtni Boshqarish",
+        "muallif": {
+            "ism": "Brian",
+            "familiya": "Tracy"
+        },
+        "janr": "O'z-o'zini rivojlantirish",
+        "narx": 65000,
+        "sahifalar": 220
+    },
+    {
+        "nom": "21-asr Korxonasi",
+        "muallif": {
+            "ism": "Gary",
+            "familiya": "Vaynerchuk"
+        },
+        "janr": "Biznes",
+        "narx": 110000,
+        "sahifalar": 300
+    },
+    {
+        "nom": "Startup Noldan Boshlab",
+        "muallif": {
+            "ism": "Eric",
+            "familiya": "Ries"
+        },
+        "janr": "Biznes",
+        "narx": 115000,
+        "sahifalar": 400
+    },
+    {
+        "nom": "Bolalar Tarbiyasi",
+        "muallif": {
+            "ism": "John",
+            "familiya": "Maxwell"
+        },
+        "janr": "Oila",
+        "narx": 95000,
+        "sahifalar": 280
+    },
+    {
+        "nom": "Dasturlash Asoslari",
+        "muallif": {
+            "ism": "Yoshihiro",
+            "familiya": "Mori"
+        },
+        "janr": "Dasturlash",
+        "narx": 50000,
+        "sahifalar": 150
+    },
+    {
+        "nom": "PHP Dasturlashga Kirish",
+        "muallif": {
+            "ism": "Rasmus",
+            "familiya": "Lerdorf"
+        },
+        "janr": "Dasturlash",
+        "narx": 70000,
+        "sahifalar": 180
+    },
+    {
+        "nom": "JavaScript Dasturlash",
+        "muallif": {
+            "ism": "Douglas",
+            "familiya": "Crockford"
+        },
+        "janr": "Dasturlash",
+        "narx": 80000,
+        "sahifalar": 200
+    },
+    {
+        "nom": "Java Dasturlash Asoslari",
+        "muallif": {
+            "ism": "James",
+            "familiya": "Gosling"
+        },
+        "janr": "Dasturlash",
+        "narx": 100000,
+        "sahifalar": 300
+    },
+    {
+        "nom": "O'lim Faryodi",
+        "muallif": {
+            "ism": "Chingiz",
+            "familiya": "Aytmatov"
+        },
+        "janr": "Roman",
+        "narx": 90000,
+        "sahifalar": 350
+    },
+    {
+        "nom": "Yuz Yillik Yolg'izlik",
+        "muallif": {
+            "ism": "Gabriel",
+            "familiya": "Garsia Markes"
+        },
+        "janr": "Roman",
+        "narx": 110000,
+        "sahifalar": 420
+    },
+    {
+        "nom": "Anna Karenina",
+        "muallif": {
+            "ism": "Lev",
+            "familiya": "Tolstoy"
+        },
+        "janr": "Roman",
+        "narx": 95000,
+        "sahifalar": 520
+    },
+    {
+        "nom": "Siyosiy Azoblar",
+        "muallif": {
+            "ism": "Nodir",
+            "familiya": "Otamurod"
+        },
+        "janr": "Roman",
+        "narx": 78000,
+        "sahifalar": 340
+    },
+    {
+        "nom": "Chol Va Dengiz",
+        "muallif": {
+            "ism": "Ernest",
+            "familiya": "Xeminguey"
+        },
+        "janr": "Povest",
+        "narx": 45000,
+        "sahifalar": 140
+    },
+    {
+        "nom": "Kichkina Shahzoda",
+        "muallif": {
+            "ism": "Antuan",
+            "familiya": "de Sent-Ekzyuperi"
+        },
+        "janr": "Badiiy asar",
+        "narx": 55000,
+        "sahifalar": 100
+    },
+    {
+        "nom": "Jasorat",
+        "muallif": {
+            "ism": "Jack",
+            "familiya": "London"
+        },
+        "janr": "Povest",
+        "narx": 47000,
+        "sahifalar": 180
+    },
+    {
+        "nom": "Xotira",
+        "muallif": {
+            "ism": "Toni",
+            "familiya": "Morrison"
+        },
+        "janr": "Roman",
+        "narx": 62000,
+        "sahifalar": 300
+    },
+    {
+        "nom": "Yettilik Tashvishlari",
+        "muallif": {
+            "ism": "J.K.",
+            "familiya": "Rouling"
+        },
+        "janr": "Fantastika",
+        "narx": 99000,
+        "sahifalar": 500
+    },
+    {
+        "nom": "Tog'lar Oralig'ida",
+        "muallif": {
+            "ism": "Ken",
+            "familiya": "Follet"
+        },
+        "janr": "Sarguzasht",
+        "narx": 85000,
+        "sahifalar": 400
+    },
+    {
+        "nom": "Xotira va Hayot",
+        "muallif": {
+            "ism": "Yusuf",
+            "familiya": "Hos Hojib"
+        },
+        "janr": "Tarix",
+        "narx": 55000,
+        "sahifalar": 280
+    },
+    {
+        "nom": "Hozirgi Zamon",
+        "muallif": {
+            "ism": "Imron",
+            "familiya": "Qosim"
+        },
+        "janr": "Tarix",
+        "narx": 78000,
+        "sahifalar": 320
+    },
+    {
+        "nom": "Osmon Yulduzlari",
+        "muallif": {
+            "ism": "George",
+            "familiya": "Orwell"
+        },
+        "janr": "Fantastika",
+        "narx": 67000,
+        "sahifalar": 270
+    },
+    {
+        "nom": "Yo'lbars Tishlari",
+        "muallif": {
+            "ism": "Islom",
+            "familiya": "Karimov"
+        },
+        "janr": "Tarix",
+        "narx": 80000,
+        "sahifalar": 360
+    },
+    {
+        "nom": "Ajdodlar Merosi",
+        "muallif": {
+            "ism": "Chingiz",
+            "familiya": "Aytmatov"
+        },
+        "janr": "Roman",
+        "narx": 75000,
+        "sahifalar": 340
+    },
+    {
+        "nom": "Jahon Adabiyoti",
+        "muallif": {
+            "ism": "Maxmud",
+            "familiya": "Zamirov"
+        },
+        "janr": "Adabiyot",
+        "narx": 85000,
+        "sahifalar": 450
+    }
+]
